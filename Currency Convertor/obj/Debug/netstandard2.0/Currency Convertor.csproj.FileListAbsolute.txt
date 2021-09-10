@@ -1,0 +1,14 @@
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\obj\Debug\netstandard2.0\Currency Convertor.csprojAssemblyReference.cache
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\obj\Debug\netstandard2.0\Currency Convertor.AssemblyInfoInputs.cache
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\obj\Debug\netstandard2.0\Currency Convertor.AssemblyInfo.cs
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\obj\Debug\netstandard2.0\Currency Convertor.csproj.CoreCompileInputs.cache
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\obj\Debug\netstandard2.0\Currency Convertor.dll
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\obj\Debug\netstandard2.0\ref\Currency Convertor.dll
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\obj\Debug\netstandard2.0\Currency Convertor.pdb
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\bin\Debug\netstandard2.0\Currency Convertor.deps.json
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\bin\Debug\netstandard2.0\Currency Convertor.dll
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\bin\Debug\netstandard2.0\ref\Currency Convertor.dll
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\bin\Debug\netstandard2.0\Currency Convertor.pdb
+C:\Users\eregn\source\repos\Currency Convertor\Currency Convertor\Currency Convertor\obj\Debug\netstandard2.0\XamlC.stamp
